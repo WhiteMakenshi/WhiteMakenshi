@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Juan Carlos</a> 👋</h1>
 </div>
-<img src="https://drive.google.com/file/d/1eEmJPSD5JoT99k5lS7ex5wBDkt0r-pVQ/view?usp=drive_link">
+<img>https://github.com/user-attachments/assets/1c7609dc-0335-4fb1-8dcc-001a7cbe9738</
 
 [![Twitch Status](https://img.shields.io/twitch/status/makenshi86?style=social)](https://www.twitch.tv/makenshi86)
 [![GitHub followers](https://img.shields.io/github/followers/WhiteMakenshi?style=social)](https://github.com/WhiteMakenshi)
